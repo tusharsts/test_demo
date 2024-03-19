@@ -1,2 +1,5 @@
+Version 0.0.2
+- new branch createts with name testBranch.
+
 Version 0.0.1
 - git test demo tested.
